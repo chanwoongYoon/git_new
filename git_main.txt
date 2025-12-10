@@ -1,4 +1,4 @@
 main
-Math
+Mathmatics
 Physics
-Chemistry
+Chemistry_of_plants
