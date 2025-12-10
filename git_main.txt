@@ -1,4 +1,4 @@
 main
 Mathmatics
-Physics
-Chemistry_of_plants
+Classical_Physics
+Computer_science
